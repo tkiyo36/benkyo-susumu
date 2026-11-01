@@ -1,0 +1,3 @@
+:HL["/benkyo-susumu/_next/static/chunks/3bgg3f2s_-uuw.css","style"]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"KFrpCO-TAJWq4u9ZkpQYr","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
